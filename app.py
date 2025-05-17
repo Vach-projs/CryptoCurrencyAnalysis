@@ -1,3 +1,5 @@
+#Run this on the local machine for smoother and easier operation, you will need an internet connection for fetching the current price on a given day. I'm not sure how to run this on colab or even you can run streamlit on colab. Look into other options if you can't run this on a local machine.
+
 import streamlit as st
 import pandas as pd
 import os
